@@ -12,25 +12,25 @@
   </url>
   
   <url>
-    <loc>https://iskhanba.github.io/categories/development/</loc>
-    <lastmod>2017-03-19T15:59:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://iskhanba.github.io/tags/development/</loc>
     <lastmod>2017-03-19T15:59:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iskhanba.github.io/categories/golang/</loc>
+    <loc>https://iskhanba.github.io/categories/development/</loc>
     <lastmod>2017-03-19T15:59:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://iskhanba.github.io/tags/golang/</loc>
+    <lastmod>2017-03-19T15:59:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iskhanba.github.io/categories/golang/</loc>
     <lastmod>2017-03-19T15:59:56+00:00</lastmod>
     <priority>0</priority>
   </url>
